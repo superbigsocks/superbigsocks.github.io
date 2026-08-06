@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Liter';
-    src: url('../fonts/Liter-Regular.ttf') format('truetype');
+    src: url('../fonts/GoogleSansCode-VariableFont_MONO,wght.ttf') format('truetype'); 
 }
 
 body, html {
@@ -23,42 +23,42 @@ a {
 }
 
 .header-text {
-    font-size: xx-large; /* medium-large size */
+    font-size: xx-large; 
     font-weight: bold;
     font-family: 'Liter', sans-serif;
     text-align: left;
-    padding-top: 1%; /* adjust the padding value as needed */
-    padding-left: 2%; /* adjust the padding value as needed */
-    padding-bottom: 10%; /* adjust the padding value as needed */
+    padding-top: 4%; 
+    padding-left: 2%; 
+    padding-bottom: 10%; 
 }
 
 .intro-text {
-    font-size: xx-large; /* medium size */
+    font-size: xx-large; 
     font-family: 'Liter', sans-serif;
     font-weight: 500;
     text-align: left;
-    padding-left: 3%; /* adjust the padding value as needed */
-    padding-bottom: .1%; /* adjust the padding value as needed */
+    padding-left: 3%; 
+    padding-bottom: .1%; 
 }
 
 .body-text {
-    font-size: x-large; /* small size */
+    font-size: x-large;
     font-family: 'Liter', sans-serif;
     font-weight: 500;
     text-align: left;
-    padding-left: 3%; /* adjust the padding value as needed */
-    padding-bottom: 30%; /* adjust the padding value as needed */
+    padding-left: 3%; 
+    padding-bottom: 30%; 
 }
 
 .footer-text {
-    font-size: small; /* small size */
+    font-size: small;
     font-family: 'Liter', sans-serif;
     left: 2%;
     width: 100%;
     font-weight: 300;
     text-align: bottom;
-    padding-left: 2%; /* adjust the padding value as needed */
-    padding-bottom: 1%; /* adjust the padding value as needed */
+    padding-left: 2%; 
+    padding-bottom: 1%; 
     height: 5%; 
 }
 
